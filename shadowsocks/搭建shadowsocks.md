@@ -18,5 +18,5 @@
 
 ## 额外扩展
 
-- 配置定时重启
+- 配置[定时重启](./配置shadowsocks重启.md)
 - 安装加速服务，如[锐速](https://www.91yun.org/archives/683)，[LotServer](https://doub.io/wlzy-21/)，[BBR](https://doub.io/wlzy-16/)
