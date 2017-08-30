@@ -1,4 +1,4 @@
-# 配置shadowsocks重启
+# 配置shadowsocks定时重启
 
 前置条件：已正确安装shadowsock服务，可参考[这篇文章](./搭建shadowsocks.md)。
 
@@ -19,4 +19,4 @@ ssserver -c /etc/shadowsocks.json -d restart
 
 运行`service cron restart`以确保定时任务已启动。
 
-更进一步，可以修改`/etc/rc.local`来配置重启重启。在`exit 0`之前加一行`bash /root/restart-ss.sh`即可。
+更进一步，可以通过修改`/etc/rc.local`文件，使shadowsocks在服务器重启时自动启动。打开该文件，在`exit 0`之前加一行`bash /root/restart-ss.sh`即可。
