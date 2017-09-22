@@ -3,6 +3,7 @@
 ## 购买服务器
 
 推举服务器供应商：
+- [板瓦工](https://bwh1.net/cart.php?a=confproduct&i=0)（cn2）
 - [vultr](http://www.vultr.com/?ref=7067693)（洛杉矶节点）
 - [ufovps](https://www.ufovps.com)（香港节点）
 
