@@ -3,6 +3,7 @@
 ## 购买服务器
 
 推举服务器供应商：
+- [50vz](https://www.50vz.net/aff.php?aff=304)（洛杉矶c3节点）（cn2，中文客服）
 - [板瓦工](https://bwh1.net/cart.php?a=confproduct&i=0)（cn2）（自带bbr和ss安装脚本）
 - [vultr](http://www.vultr.com/?ref=7067693)（洛杉矶节点）
 - [ufovps](https://www.ufovps.com)（香港节点）
